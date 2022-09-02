@@ -1,0 +1,16 @@
+{
+  "name": "restapi_student_registration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pritam",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^5.10.13",
+    "validator": "^13.1.17"
+  }
+}
